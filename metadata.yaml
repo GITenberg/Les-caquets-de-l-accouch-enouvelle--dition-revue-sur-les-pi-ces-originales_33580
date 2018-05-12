@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36482
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89douard_Fournier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33580#Les-caquets-de-l-accouch-enouvelle--dition-revue-sur-les-pi-ces-originales
 gutenberg_bookshelf: FR Humour
 gutenberg_issued: '2010-08-30'
 gutenberg_type: Text
